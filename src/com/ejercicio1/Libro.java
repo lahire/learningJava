@@ -1,4 +1,4 @@
-package src.ejercicio1;
+package src.com.ejercicio1;
 // Ejercicio: Constructores de Libro
 
 // Crear una clase llamada Libro con los atributos titulo,
