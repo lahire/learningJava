@@ -1,1 +1,4 @@
 *.class
+*.tar.gz
+.vscode
+.DS_Store
